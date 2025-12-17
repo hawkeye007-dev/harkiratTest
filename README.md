@@ -1,3 +1,7 @@
+The document and test link is `https://brindle-goal-102.notion.site/Backend-WebSocket-Live-Attendance-System-2c646b36b2e980b09b42d7c0240a8170`
+
+
+
 # Live Attendance System - Test Suite
 
 This test suite validates any server implementation against the Live Attendance System specification.
